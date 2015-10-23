@@ -1,7 +1,7 @@
 # example_api_python
-Example use api pbrf.ru on python.
+Example use api [pbrf.ru](https://pbrf.ru) on python.
 
-```
+```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 
